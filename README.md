@@ -6,4 +6,4 @@ The bot will utilize plugins to it's most and is fully customizable because of t
 
 The bot is written in Python and so will it's plugins be.
 
-More information and of course actual builds of the not will be available later so stay tuned!
+More information and of course actual builds of the bot will be available later so stay tuned!
