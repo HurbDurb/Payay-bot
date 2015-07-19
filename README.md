@@ -6,4 +6,6 @@ The bot will utilize plugins to it's most and is fully customizable because of t
 
 The bot is written in Python and so will it's plugins be.
 
-More information and of course actual builds of the bot will be available later so stay tuned!
+Right now we have a basic plugin framework working and are getting the IRC part in.
+We will be writing a documentation so you can start off personalizing your experience with plugins right away!
+Examples will also be included!
